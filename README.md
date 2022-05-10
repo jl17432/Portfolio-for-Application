@@ -9,7 +9,7 @@ The first folder is the year-2 group work for my HCI unit in Computer Science BS
   
   Each member in the group eaqually contribute to the design, the final work came from the study and discussion among all members. I was responsible to the final presentation part.
   
-  Through this project and the learning in this unit, I have gain vast experience on design approach, communicating to the user group, and teamwork experience.
+  Through finishing this project and the learning this unit, I have gain vast experience on design approach, communicating to the user group, and teamwork experience.
   
   The folder includes the presentation PPT and PPT-version report.
   
@@ -29,4 +29,8 @@ The second folder is the year-2 individual mini-project of my CGI unit in Comput
  ==========
  The third folder is the individual project for my Computer Science BSc degree in University of Bristol. 
  ---------
-   Starting with a motivation came from a HCI peer tutorial, I decide to develop a serious game that could educate junior high school student money management skills. I had done a number of research on the topic of serious games, game designing, education, finance and psychology to support the dfevelopment of the game. 
+   Starting with a motivation came from a HCI peer tutorial, I decide to develop a serious game that could educate junior high school student money management skills. I had done a number of research on the topic of serious games, game designing, education, finance and psychology to support the development of the game. The final production is a 2-D pixel game developed based on the Unity engine, and an experiment was conducted to evaluate the UI and UX design, and the educational purpose. 
+   
+   The process of developing this game has equiped me with the knowledge of designing and developing a video game, experience of conducting a experiment and the ethical application (since the audience of my game are juvenile, the experiment was originally design to be involving volunteers from this age group. The volunteers were changed to be the parents who have junior high school aged children due to the risk of the application could be refused by the ethics committee). 
+   
+   The folder includes the dissertation for my project. The dissertation is incomplete and have not gone through the proofreading, due to the fact that I am still working on it and there is still some time before the deadline. However, the finished content and the pictures in this dissertation are adequate to demonstrate my design approach and the production game.
