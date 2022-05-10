@@ -11,7 +11,7 @@ The first folder is the year-2 group work for my HCI unit in Computer Science BS
   
   Through finishing this project and the learning this unit, I have gain vast experience on design approach, communicating to the user group, and teamwork experience.
   
-  The folder includes the presentation PPT and PPT-version report.
+  The folder includes the presentation slides and slides-version report.
   
   
 Project Olympiods
